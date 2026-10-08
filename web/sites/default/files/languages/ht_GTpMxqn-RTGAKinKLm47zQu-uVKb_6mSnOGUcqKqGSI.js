@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Status message":"Mesaj sou eta","Save":"Anrejistre"}},"pluralFormula":{"1":0,"default":1}};
