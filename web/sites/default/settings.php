@@ -79,9 +79,9 @@
  *
  * @code
  * $databases['default']['default'] = [
- *   'database' => 'database_name',
- *   'username' => 'sql_username',
- *   'password' => 'sql_password',
+ *   'database' => 'Farmer-Market',
+ *   'username' => 'nasiah',
+ *   'password' => 'Theonepieceisreal$12',
  *   'host' => 'localhost',
  *   'port' => '3306',
  *   'driver' => 'mysql',
