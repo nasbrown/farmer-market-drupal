@@ -2,3 +2,5 @@ web/sites/*/settings*.php
 web/sites/*/files
 /.ddev/
 config
+/vendor/
+/web/core/
